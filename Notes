@@ -1,0 +1,15 @@
+Image Tagger Notes
+
+In its current state, this plugin does the following:
+	1. Allows the user to upload multiple galleries.
+	2. Allows the user to apply a single tag to multiple images.
+            -(The ability to add multiple tags to multiple images is currently not supported)
+	3. Allows the user to view images in selected gallery.
+	4. Uploads selected gallery to Wordpress uploads folder.
+
+To access Image-Tagger plugin: 
+	1. Activate
+	2. Locate in Settings in Wordpress Admin
+
+* Images are located in the Wordpress uploads folder *
+	-(Images are not viewable in Media area)
